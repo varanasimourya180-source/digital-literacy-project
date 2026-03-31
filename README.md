@@ -21,6 +21,7 @@ The project covers:
 
 ---
 
+```
 ##  Project Structure
 digital-literacy-project/
 │
@@ -47,7 +48,7 @@ digital-literacy-project/
 └── task-5-cybercrime/
 ├── casestudy.pdf
 └── prevention-checklist.txt
-
+```
 
 ---
 
